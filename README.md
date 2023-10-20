@@ -38,6 +38,10 @@ Para cualquier duda o sugerencia, puedes contactarnos en:
 - 📧 Email: [SyntaxError](mailto:jpalaciosded@uoc.edu)
 - 📞 Telegram: [Grupo Telegram](https://t.me/+jSFB1CZ3XiQ0MDVk)
 
----
+Aquí encontrarás enlaces a nuestros repositorios más importantes:
+
+- [Producto 2](https://github.com/NombreDeUsuario/Repositorio1)
+- [Producto 3](
+- [Producto 4]
 
 🚀 ¡Juntos aprendemos mejor! ¡A por todas, equipo SyntaxError!

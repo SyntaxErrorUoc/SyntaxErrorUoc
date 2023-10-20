@@ -40,7 +40,7 @@ Para cualquier duda o sugerencia, puedes contactarnos en:
 
 Aquí encontrarás enlaces a nuestros repositorios más importantes:
 
-- [Producto 2](https://github.com/NombreDeUsuario/Repositorio1)
+- [Producto 2](https://github.com/SyntaxErrorUoc/Producto2)
 - [Producto 3](
 - [Producto 4]
 

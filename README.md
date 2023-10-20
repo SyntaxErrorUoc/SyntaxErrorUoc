@@ -3,7 +3,7 @@
 
 Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los estudiantes de CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW) de la UOC/Jesuitas.
 
-![Banner de SyntaxError](https://github.com/jpalaciosded/jpalaciosded/blob/bdca4db29ea1c0e5af7a806965d21d51f38854d1/Banner_SyntaxError.png)
+![Banner de SyntaxError](https://github.com/SyntaxErrorUoc/SyntaxErrorUoc/blob/b42a85baa3aa99f288df508867b33553ff68546f/Banner_SyntaxError.png)
 
 ### 📚 Objetivos
 

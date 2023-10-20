@@ -14,7 +14,6 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 ### 📌 Cómo Participar
 
 1. **Colabora:** Si tienes recursos, guías, o ejemplos de código que pueden ser útiles, ¡siente libre de hacer un pull request!
-2. **Participa en las Discusiones:** Utiliza la sección de [Issues](url-del-repositorio/issues) para hacer preguntas, discutir temas o proponer ideas.
 
 ### 🧰 Recursos
 
@@ -23,9 +22,9 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 
 ### 🤝 Colaboradores
 
-- [Jesús María Joyas Villagraz](url-del-perfil-de-github)
-- [Carlos Espigol Florez](url-del-perfil-de-github)
-- [Pablo de Maya Rodríguez](url-del-perfil-de-github)
+- [Jesús María Joyas Villagraz](url-del-perfil-de-github) [Falta usuario github]
+- [Carlos Espigol Florez](url-del-perfil-de-github) [Falta usuario github]
+- [Pablo de Maya Rodríguez](url-del-perfil-de-github) [Falta usuario github]
 - [Juan Francisco Palacios de Dios](https://github.com/jpalaciosded)
 
 ### 🔗 Enlaces de Interés

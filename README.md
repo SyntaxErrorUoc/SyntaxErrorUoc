@@ -40,8 +40,8 @@ Para cualquier duda o sugerencia, puedes contactarnos en:
 
 Aquí encontrarás enlaces a nuestros repositorios más importantes:
 
-- [Producto 2](https://github.com/SyntaxErrorUoc/Producto2)
-- [Producto 3](
-- [Producto 4]
+- [Producto 2]  [Pendiente de iniciar producto 2]
+- [Producto 3]  [Pendiente de iniciar producto 3]
+- [Producto 4]  [Pendiente de iniciar producto 4]
 
 🚀 ¡Juntos aprendemos mejor! ¡A por todas, equipo SyntaxError!

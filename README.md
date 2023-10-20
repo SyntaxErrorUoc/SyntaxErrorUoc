@@ -37,7 +37,7 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 ### 📣 Contacto
 
 Para cualquier duda o sugerencia, puedes contactarnos en:
-- 📧 Email: [syntaxerror](mailto:jpalaciosded@uoc.edu)
+- 📧 Email: [SyntaxError](mailto:jpalaciosded@uoc.edu)
 - 📞 Telegram: [Grupo Telegram](https://t.me/+jSFB1CZ3XiQ0MDVk)
 
 ---

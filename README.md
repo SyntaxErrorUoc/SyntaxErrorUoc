@@ -17,11 +17,10 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 2. **Participa en las Discusiones:** Utiliza la sección de [Issues](url-del-repositorio/issues) para hacer preguntas, discutir temas o proponer ideas.
 
 ### 🧰 Recursos
-<--
+
 - [Guía de Estudio](url-de-la-guia)
-- [Recursos Externos](url-recursos-externos)
-- [Foro de Dudas](url-del-foro)
--->
+- [Site](https://sites.google.com/uoc.edu/syntaxerrorbdpoo/home)
+
 ### 🤝 Colaboradores
 
 - [Jesús María Joyas Villagraz](url-del-perfil-de-github)

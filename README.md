@@ -18,7 +18,7 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 
 ### 🧰 Recursos
 
-- [Guía de Estudio](url-de-la-guia)
+- [Caso Práctico](https://github.com/SyntaxErrorUoc/SyntaxErrorUoc/blob/6469f0b7fec6707b1e1e3e9df0d306ee295d7866/Caso%20practico.pdf)
 - [Site](https://sites.google.com/uoc.edu/syntaxerrorbdpoo/home)
 
 ### 🤝 Colaboradores

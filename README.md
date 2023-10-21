@@ -25,7 +25,7 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 - [Jesús María Joyas Villagraz](https://githup.com/ChusUOC)
 - [Carlos Espigol Florez](https://githup.com/CarlosEF2023)
 - [Pablo de Maya Rodríguez](https://githup.com/pablodmaya)
-- [Juan Francisco Palacios de Dios](https://github.com/jpalaciosded)
+- [Juan Francisco Palacios de Dios](https://github.com/jpalaciosdedUOC)
 
 ### 🔗 Enlaces de Interés
 

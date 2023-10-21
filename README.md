@@ -22,9 +22,9 @@ Bienvenido al repositorio oficial del grupo de estudio "SyntaxError" para los es
 
 ### 🤝 Colaboradores
 
-- [Jesús María Joyas Villagraz](url-del-perfil-de-github) [Falta usuario github]
-- [Carlos Espigol Florez](url-del-perfil-de-github) [Falta usuario github]
-- [Pablo de Maya Rodríguez](url-del-perfil-de-github) [Falta usuario github]
+- [Jesús María Joyas Villagraz](https://githup.com/ChusUOC)
+- [Carlos Espigol Florez](https://githup.com/CarlosEF2023)
+- [Pablo de Maya Rodríguez](https://githup.com/pablodmaya)
 - [Juan Francisco Palacios de Dios](https://github.com/jpalaciosded)
 
 ### 🔗 Enlaces de Interés

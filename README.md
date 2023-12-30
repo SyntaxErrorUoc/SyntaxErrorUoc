@@ -43,5 +43,6 @@ Aquí encontrarás enlaces a nuestros repositorios más importantes:
 - [Producto 2]  (http://github.com/SyntaxErrorUoc/Producto2)
 - [Producto 3]  (http://github.com/SyntaxErrorUoc/Producto2)
 - [Producto 4]  (http://github.com/SyntaxErrorUoc/Producto4)
+- [Producto 5]  (http://github.com/SyntaxErrorUoc/Producto5)
 
 🚀 ¡Juntos aprendemos mejor! ¡A por todas, equipo SyntaxError!
